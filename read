@@ -1,0 +1,17 @@
+                                                    Predicting Football Indonesia
+
+In this notebook, I explain how we can analyst about match football Indonesia. this is Methodology to predict math result.
+
+1. Goal
+that shows their relative playing strengths at a given point in time, and the development of playing strengths in time. This  makes it possible to calculate the probabilities of different match results (win, draw, loss) for football matches in the near future.
+
+2. Reliability
+there are values are calculated, based on all relevant match results from several recent seasons, using scientific statistical methods. The impact of more recent matches on the ECI-value is higher than that of older matches. The ECI is constructed in such a way, that its predictive force is maximized.
+
+3. evaluation
+Optimize our model and compare it with a bookmaker results (BET365)
+
+
+You can download data of Indonesia Super Liga 2023/2024 from: https://footballdatabase.com/league-scores-tables/indonesia-super-liga-2023-2024
+
+notes for footbal Footbal Data 
